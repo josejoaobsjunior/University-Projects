@@ -1,1 +1,1 @@
-# University Projects
+# Introdução à Computação Gráfica
