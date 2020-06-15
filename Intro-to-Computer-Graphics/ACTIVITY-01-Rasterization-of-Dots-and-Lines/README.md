@@ -1,1 +1,2 @@
-# Introdução à Computação Gráfica
+# Atividade 01
+## Rasterização de Pontos e Linhas
